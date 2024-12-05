@@ -2,7 +2,7 @@
 - UFV student and developer of random nonsense
 - Currently working on an as-yet-unnamed hybrid factory automation/autobattler game
 
-[![NathanNull's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanNull&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![The least impressive GitHub stats you've ever seen](https://github-readme-stats.vercel.app/api?username=NathanNull&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NathanNull/NathanNull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
